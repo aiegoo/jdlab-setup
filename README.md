@@ -15,7 +15,7 @@ Development configuration and project overview
 - [three-axis-positioning](https://www.ideal-aerosmith.com/ideal-product/1553p-three-axis-positioning-and-rate-table-system/)
 - [calibration-kit](https://www.youtube.com/watch?v=XqQCbkncVYI)
 
-[![image](https://aip.scitation.org/doi/pdf/10.1063/1.5066512)](https://user-images.githubusercontent.com/42961200/153068352-fd2defc2-8b59-4494-bc41-4f8e0b8c9317.png)
+![[image](https://aip.scitation.org/doi/pdf/10.1063/1.5066512)](https://user-images.githubusercontent.com/42961200/153068352-fd2defc2-8b59-4494-bc41-4f8e0b8c9317.png)
 
 ## pc hardware spec and ubuntu setup
 
