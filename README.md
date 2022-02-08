@@ -1,6 +1,12 @@
 Development configuration and project overview
 ## hardware spec and ubuntu setup
 
+### Motherboard issue
+- all drivers are provided for Windows only, and first tried to install from Intel website, a wrong guess from this link (don't follow this link) [link](https://www.asrock.com/MB/Intel/B660M%20Pro%20RS/index.asp#Download)
+- Actual pages should be found here [link](https://www.asrock.com/mb/Intel/B660%20Steel%20Legend/index.asp#Specification)
+- From the page above, I came to realize what driver to install on my system, Viola!!!
+- [Lan Driver Download](https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software)
+
 ### mavlink, dronecode 
 - install Ubuntu 18.04
 - qt 5.15.2 [see below for more details](#qt)
