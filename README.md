@@ -8,7 +8,13 @@ Development configuration and project overview
 - qt developer
 - ui/ux designer
 
-## hardware spec and ubuntu setup
+### testing gear and reference
+- [gyro jig 1](https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=2874&context=all_theses)
+- [drone-jig](http://jmarple.ai/drone-jig/)
+- [kisti-vtol](https://scienceon.kisti.re.kr/commons/util/originalView.do?dbt=TRKO&cn=TRKO201700000259)
+- [three-axis-positioning](https://www.ideal-aerosmith.com/ideal-product/1553p-three-axis-positioning-and-rate-table-system/)
+- [calibration-kit](https://www.youtube.com/watch?v=XqQCbkncVYI)
+## pc hardware spec and ubuntu setup
 
 ### Motherboard issue
 - all drivers are provided for Windows only, and first tried to install from Intel website, a wrong guess from this link (don't follow this link) [link](https://www.asrock.com/MB/Intel/B660M%20Pro%20RS/index.asp#Download)
